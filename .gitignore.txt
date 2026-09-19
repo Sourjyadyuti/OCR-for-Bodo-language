@@ -1,0 +1,16 @@
+# datasets & checkpoints
+data/photos/
+data/full_dataset/
+*.traineddata
+*.safetensors
+*.bin
+checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# env
+.env
+venv/
