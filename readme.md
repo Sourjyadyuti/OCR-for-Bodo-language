@@ -1,4 +1,4 @@
-# OCR for Bodo Script: Tesseract vs TrOCR
+# OCR for Bodo Language: Tesseract vs TrOCR
 
 Comparative study of LSTM-based Tesseract OCR and Transformer-based TrOCR
 for Bodo (Devanagari) script recognition — one of the first systematic
